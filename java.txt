@@ -1,1 +1,7 @@
 This is my first gitub program
+
+
+will go to next level of git
+git init
+git add text.add
+git commit -m "update my code"
