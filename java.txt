@@ -1,7 +1,7 @@
-This is my first gitub program
-
-
-will go to next level of git
-git init
-git add text.add
-git commit -m "update my code"
+<html>
+<head>
+<body>
+<h1> THis is correction </h1>
+</body>
+</head>
+</html>
