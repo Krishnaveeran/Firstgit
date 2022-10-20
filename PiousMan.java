@@ -9,7 +9,8 @@ public static void main(String[] args) {
 		sum=sum*2;
 		count++;
 		System.out.println(sum);
-	
+	// im changing this code. please see the correction and update
+		
 }
 }
 }
