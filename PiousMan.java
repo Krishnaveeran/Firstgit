@@ -9,6 +9,7 @@ public static void main(String[] args) {
 		sum=sum*2;
 		count++;
 		System.out.println(sum);
+<<<<<<< HEAD
 
 //2nd day im working on this code
 
@@ -16,3 +17,10 @@ public static void main(String[] args) {
 }
 }
 }
+=======
+	// im changing this code. please see the correction and update
+		
+}
+}
+}
+>>>>>>> 2992405466127077c1dec5e911c9a321eff420e7
